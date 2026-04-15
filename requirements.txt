@@ -1,2 +1,6 @@
-pandas
+altair
 openpyxl
+pandas
+python-dotenv
+requests
+streamlit
