@@ -1,0 +1,32 @@
+rank,product,actual,forecast,plc
+,,,,
+1,SWITCH Enterprise 48-Port UPOE,13144,14754,Sustaining
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,58318,62693,Sustaining
+3,SWITCH Core 25G/100G Fiber,6346,6576,Sustaining
+4,SWITCH Enterprise 24-Port PoE+,8433,9788,Sustaining
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,43188,42000,Sustaining
+6,ROUTER Core Modular Chassis,705,755,NPI-Ramp
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),3035,1968,Sustaining
+8,SWITCH Enterprise 25G Fiber,3136,2868,Sustaining
+9,SWITCH Enterprise 24-Port UPOE,3302,2463,Sustaining
+10,ROUTER Enterprise Edge 10G/40G,530,591,Decline
+11,SECURITY FIREWALL Next-Generation_2,252,252,Sustaining
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,3882,4259,Sustaining
+13,SWITCH Core 100G Fiber,546,562,Sustaining
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,5730,5062,Sustaining
+15,SECURITY FIREWALL Next-Generation_1,326,265,Sustaining
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,1723,1906,Sustaining
+17,SWITCH Enterprise 24-Port PoE+ Compact,1652,1529,Sustaining
+18,SWITCH Data Center 25G/100G Leaf,715,849,Sustaining
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,7261,8123,Sustaining
+20,SWITCH Data Center 100G Spine,506,474,Decline
+21,SWITCH Core 100G/400G Fiber,208,216,Sustaining
+22,IP PHONE Enterprise Desk,13465,12800,Decline
+23,ROUTER Branch 4-Port PoE,6821,5400,Decline
+24,SWITCH Industrial 8-Port PoE,2165,2323,Sustaining
+25,IP CONFERENCE PHONE,3747,3209,Decline
+26,SWITCH Industrial 8-Port PoE Compact,1919,1304,Sustaining
+27,SWITCH Industrial Managed,2240,1782,Sustaining
+28,ROUTER Edge Aggregation Fiber,943,893,Decline
+29,SWITCH Industrial 24-Port PoE,301,395,Sustaining
+30,ROUTER Branch 8-Port PoE,1208,1221,Sustaining
